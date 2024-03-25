@@ -1,0 +1,2 @@
+# smile_bakery_house
+PHPで作った架空のパン屋のECサイト

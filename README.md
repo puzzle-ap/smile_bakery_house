@@ -4,8 +4,8 @@ PHPで作った架空のパン屋のECサイトです。
 レスポンシブにも対応しているため、スマホやタブレットでも閲覧できます。
 また、セキュリティ上の理由により、ソースコードは非公開にしています。
 ![スクリーンショット 2024-03-26 092522-min](https://github.com/puzzle-ap/smile_bakery_house/assets/149124533/aa140328-5d52-4dc9-bc9a-2648be1f161d)<!-- PC版のトップページ -->
-<!-- ![Screenshot_20240326-092710-min](https://github.com/puzzle-ap/smile_bakery_house/assets/149124533/2f4347ab-dae0-4a78-9938-8eb67a7efe78)スマホ版のメニューページ -->
-<img src="https://github.com/puzzle-ap/smile_bakery_house/assets/149124533/2f4347ab-dae0-4a78-9938-8eb67a7efe78" width="50%">
+<img src="https://github.com/puzzle-ap/smile_bakery_house/assets/149124533/2f4347ab-dae0-4a78-9938-8eb67a7efe78" width="50%"><!-- スマホ版のメニューページ -->
+
 # URL
 [https://smile-bakery-house.com/](https://smile-bakery-house.com/)
 レンタルサーバーで公開しています。
